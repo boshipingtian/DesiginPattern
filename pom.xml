@@ -18,6 +18,11 @@
 
     <modules>
         <module>FactoryPattern</module>
+        <module>SingletonPattern</module>
+        <module>ObserverPattern</module>
+        <module>Creative</module>
+        <module>Behavioral</module>
+        <module>Structural</module>
     </modules>
 
     <dependencies>
