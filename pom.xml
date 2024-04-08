@@ -23,6 +23,7 @@
         <module>Creative</module>
         <module>Behavioral</module>
         <module>Structural</module>
+        <module>MultiThread</module>
     </modules>
 
     <dependencies>
