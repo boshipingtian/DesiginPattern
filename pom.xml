@@ -24,6 +24,7 @@
         <module>Behavioral</module>
         <module>Structural</module>
         <module>MultiThread</module>
+        <module>Algorithm</module>
     </modules>
 
     <dependencies>
